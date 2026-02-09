@@ -1,7 +1,7 @@
 # Hi there, I'm James 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/SystemInfomation)
+[![GitHub followers](https://img.shields.io/github/followers/SystemInfomation?label=Follow&style=social)](https://github.com/SystemInfomation)
 
 ## 🎓 About Me
 
