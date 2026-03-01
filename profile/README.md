@@ -1,6 +1,6 @@
 # Hi there, I'm James 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=SystemInfomation&color=blueviolet&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/SystemInfomation?label=Follow&style=social)](https://github.com/SystemInfomation)
 
 ## 🎓 About Me
@@ -29,17 +29,17 @@ I'm a passionate student developer currently pursuing my degree in **Cybersecuir
 
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SystemInfomation&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SystemInfomation&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SystemInfomation&theme=radical&hide_border=true)
 
 </div>
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=SystemInfomation&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 
 ## 📚 Currently Learning
