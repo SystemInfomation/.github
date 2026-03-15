@@ -1,72 +1,116 @@
-# Hi there, I'm James 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=SystemInfomation&color=blueviolet&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/SystemInfomation?label=Follow&style=social)](https://github.com/SystemInfomation)
-
-## 🎓 About Me
-
-I'm a passionate student developer currently pursuing my degree in **Cybersecuirty** at **UGA**. I love exploring new technologies, building projects, and contributing to open source!
-
-- 🔭 I'm currently working on **Forsyth Games**
-- 🌱 I'm currently learning **Apple/Microsoft**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **Technology**
-- 📫 How to reach me: **[forsyth@ahscampus.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
-
-## 🛠️ Technologies & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## 📊 GitHub Stats
-
 <div align="center">
-  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SystemInfomation&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SystemInfomation&layout=compact&theme=radical&hide_border=true)
+```
+ ██╗ █████╗ ███╗   ███╗███████╗███████╗
+ ██║██╔══██╗████╗ ████║██╔════╝██╔════╝
+ ██║███████║██╔████╔██║█████╗  ███████╗
+██╔╝██╔══██║██║╚██╔╝██║██╔══╝  ╚════██║
+╚██╗██║  ██║██║ ╚═╝ ██║███████╗███████║
+ ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝
+```
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SystemInfomation&theme=radical&hide_border=true)
+### `> whoami`
+
+**Cybersecurity student @ UGA · Builder · Open Source Enthusiast**
+
+![Profile Views](https://komarev.com/ghpvc/?username=SystemInfomation&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/SystemInfomation?label=Followers&style=flat-square&color=00ff41&labelColor=0d1117)](https://github.com/SystemInfomation)
 
 </div>
 
-## 🏆 GitHub Trophies
+---
 
-![trophy](https://github-profile-trophy.vercel.app/?username=SystemInfomation&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+### `> cat about.txt`
 
+```yaml
+name:       James
+role:       Student Developer
+major:      Cybersecurity @ UGA
+currently:  Building Forsyth Games
+focus:      Security · Web · AI
+contact:    forsyth@ahscampus.com
+```
 
-## 📚 Currently Learning
+- 🔭 Currently building **[Forsyth Games](https://github.com/SystemInfomation)**
+- 🌱 Exploring **Apple & Microsoft ecosystems**
+- 👯 Looking to collaborate on **open source projects**
+- 💬 Talk to me about **anything tech**
+- ⚡ I think in systems and build in code
 
-- 🤖 Machine Learning & AI
-- 🌐 Full Stack Web Development
-- 📱 Mobile App Development
-- ☁️ Cloud Computing (AWS/Azure/GCP)
+---
 
-## 🤝 Connect With Me
+### `> ls ./tech-stack`
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+**Languages & Frameworks**
 
-## 💡 Quote of the Day
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+### `> cat learning.log`
+
+```
+[ACTIVE]  Machine Learning & AI
+[ACTIVE]  Full Stack Web Development
+[ACTIVE]  Mobile App Development
+[QUEUE]   Cloud Computing — AWS / Azure / GCP
+```
+
+---
+
+### `> ./stats.sh`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SystemInfomation&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SystemInfomation&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SystemInfomation&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+
+</div>
+
+---
+
+### `> trophy --display`
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=SystemInfomation&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+---
+
+### `> ping --connect`
+
+[![Email](https://img.shields.io/badge/Email-forsyth@ahscampus.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:forsyth@ahscampus.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=react&logoColor=00ff41)](https://yourportfolio.com)
+
+---
+
+### `> fortune`
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
 <div align="center">
-  
-⭐️ From [SystemInfomation](https://github.com/SystemInfomation)
 
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-![Student Developer](https://img.shields.io/badge/Student-Developer-blue?style=for-the-badge)
+`[system] Connection established · SystemInfomation · UGA · CyberSec`
+
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)
+![Student Developer](https://img.shields.io/badge/Student-Developer-00ff41?style=flat-square&labelColor=0d1117)
 
 </div>
