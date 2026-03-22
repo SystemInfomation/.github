@@ -57,17 +57,6 @@ contact:    forsyth@ahscampus.com
 
 ---
 
-### `> cat learning.log`
-
-```
-[ACTIVE]  Machine Learning & AI
-[ACTIVE]  Full Stack Web Development
-[ACTIVE]  Mobile App Development
-[QUEUE]   Cloud Computing — AWS / Azure / GCP
-```
-
----
-
 ### `> ./stats.sh`
 
 <div align="center">
