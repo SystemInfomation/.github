@@ -71,24 +71,6 @@ contact:    forsyth@ahscampus.com
 
 ---
 
-### `> trophy --display`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SystemInfomation&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-### `> ping --connect`
-
-[![Email](https://img.shields.io/badge/Email-forsyth@ahscampus.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:forsyth@ahscampus.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=react&logoColor=00ff41)](https://yourportfolio.com)
-
----
-
 ### `> fortune`
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
